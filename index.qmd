@@ -1,26 +1,24 @@
 ---
-title: "Hi, I'm [Your Name Here]"
+title: "Hi, I'm Jacob Molinelli"
 ---
 
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](https://placehold.co/530x530?text=images/headshot.jpg){width=100% style="border-radius: 50%;"}
+![](images/headshot for portfolio.jpg){width=100% style="border-radius: 5%;"}
 :::
 ::: {.column width="70%" style="padding-left: 3rem;"}
-I'm a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+I specialize in analyzing data, creating music, and group collaboration.
 :::
 :::
 
 ## About Me
 
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
-
-
+I am a junior in college currently working towards a <span class="highlight">marketing degree</span> from Cal Poly Pomona. I enjoy listening to music, walking my dogs, and skateboarding.
 
 ## Let's Connect
 
-You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can [email me](mailto:jacobjm159@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jacobmolinelli/).
 
 ---
 

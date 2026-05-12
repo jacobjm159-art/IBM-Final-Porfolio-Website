@@ -12,44 +12,44 @@ rmarkdown::render(
 )
 ```
 
-You can view a PDF version of my résumé [here](resume/Resume.pdf).
+You can view a PDF version of my résumé [here](resume/Resume (1).pdf).
 
 # Professional Summary
 
-Results-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.
+Communicative, knowledgeable professional with five years experience using Cakewalk digital
+audio workstation to create my own music. Fresh insight and experience with communicating
+with clients, completing tasks, and developing new ideas.
 
 # Technical Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
+- **Technological Skills:** R, Cakewalk, Scratch, FL Studio, etc.  
+- **Web Technologies:** HTML, SCSS, Github, Quarto, CMS Platforms, Analytics Tools
 
 # Education
 
 | Degree                             | Year                          | College / Department                 | Institution         |
 | ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
-| [Your Degree]                     | [Start – Graduation Year]     | [Your College or Department]        | [Your University]   |
-| [Previous Degree or Certification] | [Start – End Year]            | [Your College or Department]        | [Your University]   |
+| Marketing                     | 2023 – 2028     | College of Business        | Cal Poly Pomona   |
+| High School Completion | 2019 – 2023            | General Education        | De La Salle   |
 
 # Work Experience
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### Maintenance, The Club @ Livermore  
+*May 2022 – August 2023*
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Responsibility or accomplishment #3]  
-- [Technical tools, collaboration, or outcomes]  
-- [Any metrics, impacts, or stakeholder involvement]
+- Cleaned and maintained facilities  
+- Power washed tennis courts  
+- Chlorinated pools  
+- Prepared for events  
 
 ---
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### Carryout, Alden Lane Nursey  
+*May 2021 – August 2021*
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Team leadership, training, or development]  
-- [Projects involving marketing, data, or web technologies]  
-- [Toolset used or strategies implemented]
+- Cleaned and maintained facilities and animals  
+- Loaded and unloaded inventory  
+- Returned carry carts  
+- Prepared for events  
 
 ---

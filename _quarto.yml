@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  title: "YOUR NAME"
+  title: "Jacob Molinelli"
   navbar:
     left:
       - text: "Home"
         href: index.qmd
       - text: "Marketing Analytics"
         href: marketing-analytics.qmd
-      - text: "Strategic Marketing"
+      - text: "Marketing Projects"
         href: strategic-marketing.qmd
       - text: "Résumé"
         href: resume.qmd

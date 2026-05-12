@@ -23,9 +23,9 @@
   {
     "objectID": "strategic-marketing.html",
     "href": "strategic-marketing.html",
-    "title": "Strategic Marketing",
+    "title": "Marketing Projects",
     "section": "",
-    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+    "text": "Below are selected projects that showcase my work in school projects.These projects involve data analytics and market research."
   },
   {
     "objectID": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
@@ -44,14 +44,14 @@
   {
     "objectID": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
     "href": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
-    "title": "Strategic Marketing",
+    "title": "Marketing Projects",
     "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
     "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
   },
   {
     "objectID": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
     "href": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
-    "title": "Strategic Marketing",
+    "title": "Marketing Projects",
     "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
     "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
   },
@@ -81,7 +81,7 @@
     "href": "resume.html",
     "title": "Résumé",
     "section": "",
-    "text": "Warning in attr(x, \"match.length\"): 'xfun::attr()' is deprecated.\nUse 'xfun::attr2()' instead.\nSee help(\"Deprecated\")\nWarning in attr(x, \"match.length\"): 'xfun::attr()' is deprecated.\nUse 'xfun::attr2()' instead.\nSee help(\"Deprecated\")\nWarning in attr(x, \"match.length\"): 'xfun::attr()' is deprecated.\nUse 'xfun::attr2()' instead.\nSee help(\"Deprecated\")\n\n\nYou can view a PDF version of my résumé here.\n\nProfessional Summary\nResults-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Your Degree]\n[Start – Graduation Year]\n[Your College or Department]\n[Your University]\n\n\n[Previous Degree or Certification]\n[Start – End Year]\n[Your College or Department]\n[Your University]\n\n\n\n\n\nWork Experience\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Responsibility or accomplishment #3]\n\n[Technical tools, collaboration, or outcomes]\n\n[Any metrics, impacts, or stakeholder involvement]\n\n\n\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Team leadership, training, or development]\n\n[Projects involving marketing, data, or web technologies]\n\n[Toolset used or strategies implemented]"
+    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nCommunicative, knowledgeable professional with five years experience using Cakewalk digital audio workstation to create my own music. Fresh insight and experience with communicating with clients, completing tasks, and developing new ideas.\n\n\nTechnical Skills\n\nTechnological Skills: R, Cakewalk, Scratch, FL Studio, etc.\n\nWeb Technologies: HTML, SCSS, Github, Quarto, CMS Platforms, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\nMarketing\n2023 – 2028\nCollege of Business\nCal Poly Pomona\n\n\nHigh School Completion\n2019 – 2023\nGeneral Education\nDe La Salle\n\n\n\n\n\nWork Experience\n\nMaintenance, The Club @ Livermore\nMay 2022 – August 2023\n\nCleaned and maintained facilities\n\nPower washed tennis courts\n\nChlorinated pools\n\nPrepared for events\n\n\n\n\nCarryout, Alden Lane Nursey\nMay 2021 – August 2021\n\nCleaned and maintained facilities and animals\n\nLoaded and unloaded inventory\n\nReturned carry carts\n\nPrepared for events"
   },
   {
     "objectID": "listings/03-customer-segmentation-clustering.html",
@@ -107,14 +107,14 @@
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
-    "title": "Hi, I’m [Your Name Here]",
+    "title": "Hi, I’m Jacob Molinelli",
     "section": "About Me",
-    "text": "About Me\nI hold a [Your Degree or Current Program] from [Your Institution]."
+    "text": "About Me\nI am a junior in college currently working towards a marketing degree from Cal Poly Pomona. I enjoy listening to music, walking my dogs, and skateboarding."
   },
   {
     "objectID": "index.html#lets-connect",
     "href": "index.html#lets-connect",
-    "title": "Hi, I’m [Your Name Here]",
+    "title": "Hi, I’m Jacob Molinelli",
     "section": "Let’s Connect",
     "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
   },
@@ -124,5 +124,19 @@
     "title": "Contact Us",
     "section": "",
     "text": "Template"
+  },
+  {
+    "objectID": "strategic-marketing.html#mhr-3010-group-presentation",
+    "href": "strategic-marketing.html#mhr-3010-group-presentation",
+    "title": "Marketing Projects",
+    "section": "MHR 3010 Group Presentation",
+    "text": "MHR 3010 Group Presentation\n\n\n\nSWOT Analysis\n\n\nFor this project, I presented on the strengths, weaknesses, opportunities, and threats of the Coca-Cola company.\nSkills Demonstrated:\n\nData Analysis: Gathered relevant information to determine company factors.\nTeam Coordination: Collaborated with group members on paper and presentation.\nPublic Speaking: Presented data in front of audience properly.\nPostproject Editing: Taking in feedback and adjusting analysis."
+  },
+  {
+    "objectID": "strategic-marketing.html#acc-2080-group-presentation",
+    "href": "strategic-marketing.html#acc-2080-group-presentation",
+    "title": "Marketing Projects",
+    "section": "ACC 2080 Group Presentation",
+    "text": "ACC 2080 Group Presentation\n\n\n\nProduct Distribution\n\n\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
   }
 ]
