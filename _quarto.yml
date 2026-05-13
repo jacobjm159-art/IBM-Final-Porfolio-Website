@@ -1,6 +1,6 @@
 project:
   type: website
-
+google-analytics: "G-FSK4P1MTZP"
 website:
   title: "Jacob Molinelli"
   navbar:
