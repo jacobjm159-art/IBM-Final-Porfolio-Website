@@ -7,7 +7,7 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Marketing Analytics"
+      - text: "Presentation Project"
         href: marketing-analytics.qmd
       - text: "Marketing Projects"
         href: strategic-marketing.qmd
